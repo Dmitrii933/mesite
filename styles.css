@@ -1,0 +1,66 @@
+body{
+	background: url(../tex.png) no-repeat fixed;
+	background-size: cover;
+	color: white;
+	font-size: 17px;
+}
+
+.top{
+    height:35px;
+	width:100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: url(../texut.jpg);
+	background-size: cover;
+	opacity: 0.5;
+
+}
+a {
+	text-decoration: none;
+}
+
+
+
+a:link {
+	color: #FF8C00;
+}
+
+a:visited {
+	color: #808080;
+}
+
+a:hover {
+	color: #FF8C00;
+}
+
+strong {
+	color: 	#F0E68C;
+}
+
+h3{
+	font-size: 20px;
+	font-size: 20px;
+	color: #FF8C00;
+	margin-left: 20px;
+	margin-top: 10px; 
+}
+.size{
+	transition:0.4s;
+}
+
+.size:hover{
+	margin-top: 20%;
+	transform: scale(1.07, 1.07);
+}
+
+.style{
+	font-style: italic;
+}
+
+.img{
+	width:33%;
+}
+.xia{
+	margin-left: 20%;
+ }
